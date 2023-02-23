@@ -1,0 +1,2 @@
+# APOD
+APOD discord bot
